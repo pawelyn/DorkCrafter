@@ -18,15 +18,15 @@ Bu proje, eğitim amaçlı olarak geliştirilmiştir. Projeyi kullanarak yapaca�
    ```
    git clone https://github.com/kullanici_adi/DorkCrafter.git
 
-2.
- ``` 
-  cd DorkCrafter
+2.Dizine gidin.
  ```
-3.
+cd DorkCrafter
+ ```
+3.Gerekli Dosyaları indirin.
 ```
    pip install -r requirements.txt
 ```
-4.
+4.Programı Çalıştırın.
 ```
 DorkCrafter.exe
 
