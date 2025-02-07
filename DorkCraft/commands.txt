@@ -1,0 +1,7 @@
+quit
+--help
+--list
+--path
+--file
+--output
+clear

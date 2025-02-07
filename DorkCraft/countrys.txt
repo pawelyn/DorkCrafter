@@ -1,0 +1,233 @@
+Türkiye: tr
+Andorra: ad
+Birleşik Arap Emirlikleri: ae
+Afganistan: af
+Antigua ve Barbuda: ag
+Anguilla: ai
+Arnavutluk: al
+Ermenistan: am
+Hollanda Antilleri: an
+Angola: ao
+Antarktika: aq
+Arjantin: ar
+Amerikan Samoası: as
+Avusturya: at
+Avustralya: au
+Aruba: aw
+Azerbaycan: az
+Bosna-Hersek: ba
+Barbados: bb
+Bangladeş: bd
+Belçika: be
+Burkina Faso: bf
+Bulgaristan: bg
+Bahreyn: bh
+Burundi: bi
+Benin: bj
+Bermuda: bm
+Brunei: bn
+Bolivya: bo
+Brezilya: br
+Bahamalar: bs
+Butan: bt
+Bouvet Adası: bv
+Botsvana: bw
+Belarus: by
+Belize: bz
+Kanada: ca
+Kokos Adaları: cc
+Kongo Demokratik Cumhuriyeti: cd
+Orta Afrika Cumhuriyeti: cf
+Kongo: cg
+İsviçre: ch
+Fildişi Sahili: ci
+Cook Adaları: ck
+Şili: cl
+Kamerun: cm
+Çin: cn
+Kolombiya: co
+Kosta Rika: cr
+Küba: cu
+Cape Verde: cv
+Christmas Adası: cx
+Kıbrıs: cy
+Çek Cumhuriyeti: cz
+Almanya: de
+Cibuti: dj
+Danimarka: dk
+Dominika: dm
+Dominik Cumhuriyeti: do
+Cezayir: dz
+Ekvador: ec
+Estonya: ee
+Mısır: eg
+Eritre: er
+İspanya: es
+Etiyopya: et
+Finlandiya: fi
+Fiji: fj
+Falkland Adaları: fk
+Mikronezya: fm
+Faroe Adaları: fo
+Fransa: fr
+Gabon: ga
+Birleşik Krallık: gb
+Grenada: gd
+Gürcistan: ge
+Gana: gh
+Cebelitarık: gi
+Grönland: gl
+Gambiya: gm
+Gine: gn
+Ekvator Ginesi: gq
+Yunanistan: gr
+Güney Georgia ve Güney Sandwich Adaları: gs
+Guatemala: gt
+Guam: gu
+Gine-Bissau: gw
+Guyana: gy
+Hong Kong: hk
+Heard Adası ve McDonald Adaları: hm
+Honduras: hn
+Hırvatistan: hr
+Haiti: ht
+Macaristan: hu
+Endonezya: id
+İrlanda: ie
+İsrail: il
+Hindistan: in
+İngiliz Hint Okyanusu Toprakları: io
+Irak: iq
+İran: ir
+İzlanda: is
+İtalya: it
+Jamaika: jm
+Ürdün: jo
+Japonya: jp
+Kenya: ke
+Kırgızistan: kg
+Kamboçya: kh
+Kiribati: ki
+Komorlar: km
+Saint Kitts ve Nevis: kn
+Kuzey Kore: kp
+Güney Kore: kr
+Kuveyt: kw
+Cayman Adaları: ky
+Kazakistan: kz
+Laos: la
+Lübnan: lb
+Saint Lucia: lc
+Lihtenştayn: li
+Sri Lanka: lk
+Liberya: lr
+Lesotho: ls
+Litvanya: lt
+Lüksemburg: lu
+Letonya: lv
+Libya: ly
+Fas: ma
+Moldova: md
+Karadağ: me
+Madagaskar: mg
+Marshall Adaları: mh
+Makedonya: mk
+Mali: ml
+Myanmar: mm
+Moğolistan: mn
+Makao: mo
+Kuzey Mariana Adaları: mp
+Moritanya: mr
+Montserrat: ms
+Malta: mt
+Mauritius: mu
+Maldivler: mv
+Malavi: mw
+Meksika: mx
+Malezya: my
+Mozambik: mz
+Namibya: na
+Yeni Kaledonya: nc
+Nijer: ne
+Norfolk Adası: nf
+Nijerya: ng
+Nikaragua: ni
+Hollanda: nl
+Norveç: no
+Nepal: np
+Nauru: nr
+Niue: nu
+Yeni Zelanda: nz
+Umman: om
+Panama: pa
+Peru: pe
+Fransız Polinezyası: pf
+Papua Yeni Gine: pg
+Filipinler: ph
+Pakistan: pk
+Polonya: pl
+Saint Pierre ve Miquelon: pm
+Pitcairn Adaları: pn
+Filistin: ps
+Portekiz: pt
+Palau: pw
+Paraguay: py
+Katar: qa
+Romanya: ro
+Sırbistan: rs
+Rusya: ru
+Ruanda: rw
+Suudi Arabistan: sa
+Solomon Adaları: sb
+Seyşeller: sc
+Sudan: sd
+İsveç: se
+Singapur: sg
+Saint Helena: sh
+Slovenya: si
+Slovakya: sk
+Sierra Leone: sl
+San Marino: sm
+Senegal: sn
+Somali: so
+Surinam: sr
+Güney Sudan: ss
+São Tomé ve Príncipe: st
+El Salvador: sv
+Suriye: sy
+Svaziland: sz
+Turks ve Caicos Adaları: tc
+Çad: td
+Fransız Güney Toprakları: tf
+Togo: tg
+Tayland: th
+Tacikistan: tj
+Tokelau: tk
+Doğu Timor: tl
+Türkmenistan: tm
+Tunus: tn
+Tonga: to
+Trinidad ve Tobago: tt
+Tuvalu: tv
+Tayvan: tw
+Tanzanya: tz
+Ukrayna: ua
+Uganda: ug
+ABD Küçük Dış Adaları: um
+ABD: us
+Uruguay: uy
+Özbekistan: uz
+Vatikan: va
+Saint Vincent ve Grenadinler: vc
+Venezuela: ve
+İngiliz Virgin Adaları: vg
+ABD Virgin Adaları: vi
+Vietnam: vn
+Vanuatu: vu
+Wallis ve Futuna: wf
+Samoa: ws
+Yemen: ye
+Mayotte: yt
+Güney Afrika: za
+Zambia: zm
+Zimbabve: zw
